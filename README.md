@@ -30,11 +30,23 @@ Fedora Linux Server Guide
 
 DNF is the default package manager for RPM-based Linux distributions such as Fedora.
 
-[Fedora DNF Quick Docs](https://docs.fedoraproject.org/en-US/quick-docs/dnf/)  
+[Fedora Quick Docs - DNF](https://docs.fedoraproject.org/en-US/quick-docs/dnf/)  
 [DNF Docs](https://dnf.readthedocs.io/en/latest/command_ref.html)  
+[Using DNF (Mageia)](https://wiki.mageia.org/en/Using_DNF)
+[DNF - Fedora Magazine](https://fedoramagazine.org/tag/dnf/)
     
 Example : Installing Vim with DNF    
 
     sudo dnf install vim-enhanced  
     
-    
+#### Modularity
+
+[Modularity Overview](https://docs.pagure.org/modularity/)  
+[Modularity Docs](https://docs.fedoraproject.org/en-US/modularity/)  
+
+Get a list of available modules to install :  
+
+    dnf module list
+
+
+
