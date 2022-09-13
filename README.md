@@ -68,7 +68,8 @@ This may be fine for your home server when protected by a router.
 
 For a production server, Config Server Firewall (CSF) provides a much higher level of security by default.  
 
-    CSF is a Stateful Packet Inspection (SPI) firewall, Login/Intrusion Detection and Security application for Linux servers.
+    CSF is a Stateful Packet Inspection (SPI) firewall, 
+    Login/Intrusion Detection and Security application for Linux servers.
 
 [Config Server Firewall](https://www.configserver.com/cp/csf.html)
 
