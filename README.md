@@ -49,4 +49,30 @@ Get a list of available modules to install :
     dnf module list
 
 
+#### SELinux
+
+Fedora Server ships with SELinux enabled.  
+
+[Getting started with SELinux](https://docs.fedoraproject.org/en-US/quick-docs/getting-started-with-selinux/)
+
+Get current mode ( enforcing, permissive, disabled ):  
+
+    getenforce
+
+#### Firewall
+
+Firewalld is the default network firewall.  
+This may be fine for your home server when protected by a router.  
+
+[Firewalld Home](http://firewalld.org)
+
+For a production server, Config Server Firewall (CSF) provides a much higher level of security by default.  
+
+    CSF is a Stateful Packet Inspection (SPI) firewall, Login/Intrusion Detection and Security application for Linux servers.
+
+[Config Server Firewall](https://www.configserver.com/cp/csf.html)
+
+
+
+
 
