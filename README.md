@@ -32,8 +32,8 @@ DNF is the default package manager for RPM-based Linux distributions such as Fed
 
 [Fedora Quick Docs - DNF](https://docs.fedoraproject.org/en-US/quick-docs/dnf/)  
 [DNF Docs](https://dnf.readthedocs.io/en/latest/command_ref.html)  
-[Using DNF (Mageia)](https://wiki.mageia.org/en/Using_DNF)
-[DNF - Fedora Magazine](https://fedoramagazine.org/tag/dnf/)
+[Using DNF (Mageia)](https://wiki.mageia.org/en/Using_DNF)  
+[DNF - Fedora Magazine](https://fedoramagazine.org/tag/dnf/)  
     
 Example : Installing Vim with DNF    
 
