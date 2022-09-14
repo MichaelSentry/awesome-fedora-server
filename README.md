@@ -47,6 +47,10 @@ Example : Installing Vim with DNF
 Get a list of available modules to install :  
 
     dnf module list
+    
+List a specific module :  
+ 
+    dnf module list mysql  
 
 Install a module :  
     
