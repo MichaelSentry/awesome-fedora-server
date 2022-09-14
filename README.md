@@ -39,7 +39,7 @@ Example : Installing Vim with DNF
 
     sudo dnf install vim-enhanced
     
-#### Modularity
+### Modularity
 
 [Modularity Overview](https://docs.pagure.org/modularity/)  
 [Modularity Docs](https://docs.fedoraproject.org/en-US/modularity/)  
@@ -48,8 +48,13 @@ Get a list of available modules to install :
 
     dnf module list
 
+Install a module :  
+    
+    sudo dnf module enable mysql:8.0 -y
+    sudo dnf module install mysql:8.0/{server,client} -y
 
-#### SELinux
+
+### SELinux
 
 Fedora Server ships with SELinux enabled.  
 
@@ -59,12 +64,12 @@ Get current mode ( enforcing, permissive, disabled ):
 
     getenforce
 
-#### Firewall
+### Firewall
 
 Firewalld is the default network firewall.  
 This may be fine for your home server when protected by a router.  
 
-[Firewalld Home](http://firewalld.org)
+[Firewalld](http://firewalld.org)
 
 For a production server, Config Server Firewall (CSF) provides a much higher level of security by default.  
 
@@ -73,7 +78,19 @@ For a production server, Config Server Firewall (CSF) provides a much higher lev
 
 [Config Server Firewall](https://www.configserver.com/cp/csf.html)
 
+There is no official rpm for installing CSF. 
+Follow the instructions to download the install script to get started.
 
+
+### Control Panel
+
+Cockpit is a web-based graphical interface for servers :  
+[Cockpit](https://cockpit-project.org/)  
+
+Webmin is a web-based interface for system administration :  
+[Webmin](https://www.webmin.com/)  
+
+Webmin provides a gui for managing CSF.  
 
 
 
