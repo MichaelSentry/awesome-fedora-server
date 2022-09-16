@@ -102,9 +102,9 @@ Among other things, Webmin also provides us with an interface for managing CSF.
 
 Powerline is a statusline plugin for bash, vim, tmux and many other applications.  
 
-(Powerline repo)[https://github.com/powerline/powerline]  
-(Add Powerline - Fedora magazine)[https://fedoramagazine.org/add-power-terminal-powerline/]  
-(Powerline Docs)[https://powerline.readthedocs.io/en/latest/]  
+[Powerline repo](https://github.com/powerline/powerline)   
+[Add Powerline - Fedora magazine](https://fedoramagazine.org/add-power-terminal-powerline/)   
+[Powerline Docs](https://powerline.readthedocs.io/en/latest/)  
 
 
 
