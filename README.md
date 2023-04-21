@@ -103,7 +103,7 @@ Cockpit is a web-based graphical interface for servers :
 Webmin is a web-based interface for system administration :  
 [Webmin Honepage](https://www.webmin.com/)  
 
-Among other things, Webmin also provides us with a graphical interface for managing CSF.    
+Among other things, Webmin also provides us with an interface to manage CSF.    
 
 
 ### Powerline
