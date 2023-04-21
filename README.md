@@ -27,13 +27,14 @@ Fedora Linux Server Guide
 	
 ### Fedora Server Working Group  
 
-    The Fedora Server Working Group is the team of people working on putting together the Fedora Server Edition
+    The Fedora Server Working Group is the team of people   
+	working on putting together the Fedora Server Edition  
 
-[Server Working Group Docs](https://docs.fedoraproject.org/en-US/server-working-group/)
+[Server Working Group Docs](https://docs.fedoraproject.org/en-US/server-working-group/)  
 [Server Working Group Wiki](https://fedoraproject.org/wiki/Server)  
       
     
-### DNF Package Manager
+### DNF Package Manager  
 
 DNF is the default package manager for RPM-based Linux distributions such as Fedora.
 
