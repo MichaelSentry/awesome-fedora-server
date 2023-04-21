@@ -8,11 +8,11 @@ Fedora Linux Server Guide
 
 ### Overview  
 
-[Fedora Server](https://getfedora.org/en/server/)
+[Fedora Server](https://fedoraproject.org/server/)
 
 ### Download  
 
-[Download Fedora Server](https://getfedora.org/en/server/download/)
+[Download Fedora Server](https://fedoraproject.org/server/download/)
 
 ### Docs  
 
@@ -22,9 +22,16 @@ Fedora Linux Server Guide
     
     It is based on the latest technology and as such, 
     brings the most modern environment to users as early as possible.  
-      
-
+	
 [Fedora Server Docs](https://docs.fedoraproject.org/en-US/fedora-server/)  
+	
+### Fedora Server Working Group  
+
+    The Fedora Server Working Group is the team of people working on putting together the Fedora Server Edition
+
+[Server Working Group Docs](https://docs.fedoraproject.org/en-US/server-working-group/)
+[Server Working Group Wiki](https://fedoraproject.org/wiki/Server)  
+      
     
 ### DNF Package Manager
 
