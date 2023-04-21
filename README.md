@@ -92,6 +92,8 @@ Cockpit is a web-based graphical interface for servers :
 [Cockpit](https://cockpit-project.org/)  
 [Cockpit Docs](https://cockpit-project.org/documentation.html)  
 
+Cockpit 
+
 Webmin is a web-based interface for system administration :  
 [Webmin](https://www.webmin.com/)  
 
