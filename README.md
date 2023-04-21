@@ -117,5 +117,11 @@ Powerline is a statusline plugin for bash, vim, tmux and many other applications
 [Powerline Docs](https://powerline.readthedocs.io/en/latest/)  
 
 
+### Recent Changes
 
+NetworkManager :   
+
+    From Fedora Linux 36+ new installations will no longer support the legacy ifcfg files to configure networking.  
+
+[Modernizing NetworkManager configuration](https://fedoramagazine.org/converting-networkmanager-from-ifcfg-to-keyfiles/)  
 
