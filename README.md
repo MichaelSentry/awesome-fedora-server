@@ -94,16 +94,14 @@ There is no official rpm for installing CSF.
 Follow the instructions to download the install script to get started.
 
 
-### Control Panel
+### Control Panel  
 
-Cockpit  
 Cockpit is a web-based graphical interface for servers :  
-[Cockpit](https://cockpit-project.org/)  
+[Cockpit Homepage](https://cockpit-project.org/)  
 [Cockpit Docs](https://cockpit-project.org/documentation.html)  
 
-Webmin  
 Webmin is a web-based interface for system administration :  
-[Webmin](https://www.webmin.com/)  
+[Webmin Honepage](https://www.webmin.com/)  
 
 Among other things, Webmin also provides us with a graphical interface for managing CSF.    
 
@@ -121,7 +119,8 @@ Powerline is a statusline plugin for bash, vim, tmux and many other applications
 
 NetworkManager :   
 
-    From Fedora Linux 36+ new installations will no longer support the legacy ifcfg files to configure networking.  
+    From Fedora Linux 36+ new installations will no longer support 
+	the legacy ifcfg files to configure networking.  
 
 [Modernizing NetworkManager configuration](https://fedoramagazine.org/converting-networkmanager-from-ifcfg-to-keyfiles/)  
 
