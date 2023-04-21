@@ -95,16 +95,16 @@ Follow the instructions to download the install script to get started.
 
 ### Control Panel
 
+Cockpit  
 Cockpit is a web-based graphical interface for servers :  
 [Cockpit](https://cockpit-project.org/)  
 [Cockpit Docs](https://cockpit-project.org/documentation.html)  
 
-Cockpit 
-
+Webmin  
 Webmin is a web-based interface for system administration :  
 [Webmin](https://www.webmin.com/)  
 
-Among other things, Webmin also provides us with an interface for managing CSF.    
+Among other things, Webmin also provides us with a graphical interface for managing CSF.    
 
 
 ### Powerline
